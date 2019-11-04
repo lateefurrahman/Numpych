@@ -1,0 +1,2 @@
+# Numpych
+#numpy vs Python
